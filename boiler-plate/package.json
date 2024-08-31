@@ -41,7 +41,7 @@
         "lite-server": "^2.3.0",
         "raw-loader": "^0.5.1",
         "typescript": "^2.3.2",
-        "webpack": "^2.5.1",
+        "webpack": "^5.94.0",
         "webpack-dev-server": "^4.0.0",
         "webpack-merge": "^4.1.0"
     }
